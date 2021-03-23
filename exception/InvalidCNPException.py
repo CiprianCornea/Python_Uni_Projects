@@ -1,0 +1,2 @@
+class InvalidCNPException(Exception):
+    pass

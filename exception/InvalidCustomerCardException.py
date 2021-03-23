@@ -1,0 +1,2 @@
+class InvalidCustomerCardException(Exception):
+    pass
